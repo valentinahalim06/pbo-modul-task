@@ -1,0 +1,14 @@
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\bin\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.exe
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\bin\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.deps.json
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\bin\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.runtimeconfig.json
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\bin\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.dll
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\bin\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.pdb
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.AssemblyInfoInputs.cache
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.AssemblyInfo.cs
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.csproj.CoreCompileInputs.cache
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.dll
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\refint\Modul Praktikum PBO_Valentina Halim_222410101025_B.dll
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.pdb
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\Modul Praktikum PBO_Valentina Halim_222410101025_B.genruntimeconfig.cache
+C:\KULIAH\SEMESTER 3\PEMROGRAMAN BERORIENTASI OBYEK PR\Modul Praktikum PBO_Valentina Halim_222410101025_B\obj\Debug\net6.0\ref\Modul Praktikum PBO_Valentina Halim_222410101025_B.dll

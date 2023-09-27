@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Modul Praktikum PBO_Valentina Halim_222410101025_B/1.0.0": {
+        "runtime": {
+          "Modul Praktikum PBO_Valentina Halim_222410101025_B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul Praktikum PBO_Valentina Halim_222410101025_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
